@@ -1,8 +1,8 @@
 # dev-cinemapp
 
-### Olá amigx,
+### Olá amigo,
 
-### Seja bem vindx ao nosso desafio!
+### Seja bem vindo ao nosso desafio!
 
 Nosso passatempo favorito nessa quarentena tem sido assistir filmes e seriados, por isso pensamos em desenvolver uma solução que nos ajude na hora de selecionar o que mais gostamos. Caso você aceite o nosso desafio, precisamos que você implemente um sistema (fique a vontade pra escolher entre web ou mobile) onde será possível buscar por filmes e series utilizando a API (http://www.omdbapi.com/). Com todos esses filmes a nossa disposição queremos basicamente separar nossos favoritos, para que possamos encontrá-los facilmente depois. Portanto a sua solução deve:
 
@@ -28,7 +28,7 @@ Você pode desenvolver uma solução web ou mobile (react-native), se escolher a
 
 ## Entrega da sua solução
 
-Deixe bem claro suas premissas, suposições e como executamos seu código. Para entregar essa solução, de um “fork” neste repositório e nos mande o link do novo repositório quando finalizar a tarefa.
+Deixe bem claro suas premissas, suposições e como executamos seu código. Para entregar essa solução, faça um “fork” deste repositório e nos mande o link do novo repositório quando finalizar a tarefa.
 
 
 No mais aguardamos seu retorno. Boa sorte :)
