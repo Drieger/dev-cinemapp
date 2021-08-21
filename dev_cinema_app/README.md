@@ -53,8 +53,8 @@ Projeto desenvolvido no processo seletivo da dev-cinemapp.
    
   </tr>
   <tr>
-    <td><img src="git\web_filmes.png" width=600 height=400></td>
-    <td><img src="git\web_favoritos.png" width=600 height=400></td>
+    <td><img src="git\web_filmes.png" width=800 height=400></td>
+    <td><img src="git\web_favoritos.png" width=800 height=400></td>
   </tr>
  </table>
 
@@ -74,7 +74,7 @@ Projeto desenvolvido no processo seletivo da dev-cinemapp.
 
 ## 🚀 Como executar o projeto
 
-Ao clonar o projeto, rode o comando flutter ( pub get ) no terminal onde esta o projeto para instalar as dependências.
+Ao clonar o projeto, rode o comando ( flutter pub get ) no terminal onde esta o projeto para instalar as dependências.
 Verifique se suas versões flutter e dart estão atualizadas.
 
 ---
